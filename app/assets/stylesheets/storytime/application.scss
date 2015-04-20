@@ -30,7 +30,7 @@ $st-font-family-sans-serif: 'Open Sans', sans-serif;
 $st-font-family-serif: 'Merriweather', serif;
 $st-headings-font-family: $st-font-family-serif;
 $st-headings-font-weight: 700;
-
+@import 'bootstrap_variables';
 @import "bootstrap-sprockets";
 @import "bootstrap";
 @import "font-awesome-sprockets";
